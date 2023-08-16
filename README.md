@@ -9,6 +9,8 @@ This repository is a meta repository that contains:
 - developer documentation
 - and various other resources
 
+**THIS REPO IS A WORK IN PROGRESS**
+
 ## Components
 
 There are two main components of the Acoustic Workbench:
