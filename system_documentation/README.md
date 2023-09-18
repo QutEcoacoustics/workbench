@@ -1,5 +1,11 @@
 # System documentation
 
+This documentation is a draft. You can find historical documentation
+in the wikis of the repos themselves. 
+
+See 
+- https://github.com/QutEcoacoustics/baw-server/wiki
+- https://github.com/QutEcoacoustics/workbench-client/wiki
 
 ## Table of contents
 
@@ -12,4 +18,4 @@
 - [APIs](apis.md)
 - [Data Formats](data_formats.md)
 - [Data Architecture](data_architecture.md)
-- [Operation Processes](operational_processes.md)
+- [Operational Processes](operational_processes.md)
