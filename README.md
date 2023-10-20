@@ -72,4 +72,6 @@ The most recent of which is the ARDC Platforms project.
 [Open Ecoacoustics](https://openecoacoustics.org/) currently sponsors development of the workbench thanks to the ARDC Platforms project.
 See <https://doi.org/10.47486/PL050> for more details.
 
+[![The Open Ecoacoustics Logo](./media/OpenEcoAcoustics_horizontal_rgb.jpg)](https://openecoacoustics.org/)
+
 (TODO: add historical grants)
