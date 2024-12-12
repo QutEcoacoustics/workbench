@@ -51,13 +51,10 @@ We manage and retain rights to curate your data, metadata, personal information,
 
 This includes permission for the data custodians to: 
 
-- Store, maintain, manage, and curate your data: We will ensure your data is securely stored, properly maintained, and effectively managed. This includes organising and curating the data to enhance its usability and integrity. 
-
-- Make changes on your behalf: For example, we may manually correct data in the database, either when we believe it is necessary or at your request, to ensure accuracy and reliability.  
-
-- Train new analyses: We may include your data in training sets to develop and improve analytical models and recognizers. These training sets are private and are not shared with anyone. Additionally, all data used for training will be anonymised to protect your privacy. 
-
-- Run analyses for you: We will perform analyses using your data and metadata to generate insights and artefacts that benefit you. Analyses are done automatically or when you request. 
+- **Store, maintain, manage, and curate your data:** We will ensure your data is securely stored, properly maintained, and effectively managed. This includes organising and curating the data to enhance its usability and integrity. 
+- **Make changes on your behalf:** For example, we may manually correct data in the database, either when we believe it is necessary or at your request, to ensure accuracy and reliability.  
+- **Train new analyses:** We may include your data in training sets to develop and improve analytical models and recognizers. These training sets are private and are not shared with anyone. Additionally, all data used for training will be anonymised to protect your privacy. 
+- **Run analyses for you:** We will perform analyses using your data and metadata to generate insights and artefacts that benefit you. Analyses are done automatically or when you request. 
 
 ## 3. Who can access my data? 
 
@@ -66,11 +63,8 @@ You decide who has access to your data. You can set its visibility as public, pr
 Your access control policies apply to all users of the platform but not to data custodians; see section 2.  Your data will not be shared without your permission. Your data will never be sold. Given your explicit permission, your data, metadata, and personal information may be shared with external services. For example: 
 
 - Sharing metadata and personal information (like your name) to generate a persistent identifier (e.g. a DOI) 
-
 - Sharing metadata to export annotations (observation records) to third-party platforms.
-
 - Sharing data or metadata via an API to power external platforms or analyses 
-
 - Sharing metadata or personal information to register research outputs with research metadata platforms.
 
 In addition, you can choose a license that applies to your data, metadata, annotations, and artefacts. 
@@ -107,17 +101,12 @@ Everyone must exercise care in sharing data that is sensitive, confidential, or 
 
 The data you upload can be made available in various formats, including: 
 
-- Spectrograms: Visual representations of the audio data (PNG)  
-
-- Modified Audio: segments of the original audio recordings in different sizes or formats (MP3, WAVE, OGG) 
-
-- Original Audio: The original, unprocessed data files you upload.  
-
-- Annotations: Lists of annotations or observation records in CSV or JSON format.  
-
-- Artefacts: files produced from analyses 
-
-- Metadata: any information that describes characteristics of the data – like names, descriptions, organization, locations, and any other information used to describe the data in CSV or JSON format. 
+- **Spectrograms:** Visual representations of the audio data (PNG)  
+- **Modified Audio:** segments of the original audio recordings in different sizes or formats (MP3, WAVE, OGG) 
+- **Original Audio:** The original, unprocessed data files you upload.  
+- **Annotations:** Lists of annotations or observation records in CSV or JSON format.  
+- **Artefacts:** files produced from analyses 
+- **Metadata:** any information that describes characteristics of the data – like names, descriptions, organization, locations, and any other information used to describe the data in CSV or JSON format. 
 
 ## 11. Is my data secure in {{ brand }}? 
 
