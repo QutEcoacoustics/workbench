@@ -1,7 +1,7 @@
 
-# Ecosounds Data Sharing Policy  
+# {{ brand }} Data Sharing Policy  
 
-This is the data policy for [Open Ecoacoustics](https://openecoacoustics.org/), which is the project that operates and maintains Ecosounds.  Open Ecoacoustics is part of the Australian Research Data Commons (ARDC) Machine Observation Data Processing Infrastructure ([doi.org/10.47486/PL050](https://doi.org/10.47486/PL050)), and it is hosted by the Queensland University of Technology (QUT). Ecosounds is an archive of ecoacoustic data.  
+This is the data policy for {{ brand }}, maintained and operated by {{ organization_name }}.
 
 ## Purpose of the policy 
 
@@ -13,31 +13,31 @@ We reserve the right to update our data sharing policy. This policy will be vers
 
 ## Definitions 
 
-**We/Our:** refers to Open Ecoacoustics 
+**We/Our:** refers to {{ organization_name }}
 
-**Ecosounds:** A repository managed by Open Ecoacoustics.  
+**{{ brand }}:** A repository managed by {{ organization_name }}.  
 
 **You:** refers to the owners of each project 
 
 **Owner:** a permission level granted to users who should “own” the project and all data contained within 
 
-**Data custodian:** a role that select staff within Open Ecoacoustics have. Data custodians receive training for information security and data ethics best practices and are required to operate ethically when dealing with your data.  
+**Data custodian:** a role that select staff within {{ organization_name }} have. Data custodians receive training for information security and data ethics best practices and are required to operate ethically when dealing with your data.  
 
 **Data:** any primary data – like  audio, images, or video – on our platform 
 
 **Metadata:** any information that describes characteristics of the data – like names, descriptions, organization, locations, and any other information used to describe the data. 
 
-**Personal information:** as defined by the [Office of the Australian Information Commissioner](https://www.oaic.gov.au/privacy/your-privacy-rights/your-personal-information/what-is-personal-information).
+**Personal Information:** as defined by the [Office of the Australian Information Commissioner](https://www.oaic.gov.au/privacy/your-privacy-rights/your-personal-information/what-is-personal-information).
 
 **Analysis:** a computer program that operates on data 
 
 **Artefacts:** any file or data derived from data. For example, the output of an analysis 
 
-**Third party:** an entity other than you or Open Ecoacoustics and its personnel 
+**Third party:** an entity other than you or {{ organization_name }} and its personnel 
 
-## 1. Who owns the data I upload to Ecosounds? 
+## 1. Who owns the data I upload to {{ brand }}? 
 
-The data you upload to Ecosounds is yours. You own it. 
+The data you upload to {{ brand }} is yours. You own it. 
 
 Further: 
 - You decide who has access to it. 
@@ -45,74 +45,63 @@ Further:
 - You can choose what license is applied to your data, metadata, annotations, and artefacts. 
 - We only use your data as directed by you. 
 
-## 2. Who manages the data I upload to Ecosounds? 
+## 2. Who manages the data I upload to {{ brand }}? 
 
 We manage and retain rights to curate your data, metadata, personal information, and artefacts. We are also responsible for overseeing the data policy.  
 
 This includes permission for the data custodians to: 
 
-Store, maintain, manage, and curate your data: We will ensure your data is securely stored, properly maintained, and effectively managed. This includes organising and curating the data to enhance its usability and integrity. 
+- Store, maintain, manage, and curate your data: We will ensure your data is securely stored, properly maintained, and effectively managed. This includes organising and curating the data to enhance its usability and integrity. 
 
-Make changes on your behalf: For example, we may manually correct data in the database, either when we believe it is necessary or at your request, to ensure accuracy and reliability.  
+- Make changes on your behalf: For example, we may manually correct data in the database, either when we believe it is necessary or at your request, to ensure accuracy and reliability.  
 
-Train new analyses: We may include your data in training sets to develop and improve analytical models and recognizers. These training sets are private and are not shared with anyone. Additionally, all data used for training will be anonymised to protect your privacy. 
+- Train new analyses: We may include your data in training sets to develop and improve analytical models and recognizers. These training sets are private and are not shared with anyone. Additionally, all data used for training will be anonymised to protect your privacy. 
 
-Run analyses for you: We will perform analyses using your data and metadata to generate insights and artefacts that benefit you. Analyses are done automatically or when you request. 
+- Run analyses for you: We will perform analyses using your data and metadata to generate insights and artefacts that benefit you. Analyses are done automatically or when you request. 
 
 ## 3. Who can access my data? 
 
-You decide who has access to your data. You can set its visibility as public, private to you, or accessible to only specific parties. You can also choose the licence applied to your data; we recommend Creative Commons CC0, CC-BY or CC-BY-NC licences; more information is provided in section 4.
+You decide who has access to your data. You can set its visibility as public, private to you, or accessible to only specific parties. 
 
 Your access control policies apply to all users of the platform but not to data custodians; see section 2.  Your data will not be shared without your permission. Your data will never be sold. Given your explicit permission, your data, metadata, and personal information may be shared with external services. For example: 
 
-Sharing metadata and personal information (like your name) to generate a persistent identifier (e.g. a DOI) 
+- Sharing metadata and personal information (like your name) to generate a persistent identifier (e.g. a DOI) 
 
-Sharing metadata to export annotations (observation records) to third-party platforms (e.g. Atlas of Living Australia and Ecocommons) 
+- Sharing metadata to export annotations (observation records) to third-party platforms.
 
-Sharing data or metadata via an API to power external platforms or analyses 
+- Sharing data or metadata via an API to power external platforms or analyses 
 
-Sharing metadata or personal information to register research outputs with research metadata platforms (e.g. Research Data Australia) 
+- Sharing metadata or personal information to register research outputs with research metadata platforms.
 
 In addition, you can choose a license that applies to your data, metadata, annotations, and artefacts. 
 
 ## 4. What license applies to my uploaded data? 
 
-You can choose what license is applied to your data, metadata, and artefacts. We recommend using [Creative Commons](https://creativecommons.org/licenses/) CC0, CC-BY or CC-BY-NC licences. This allows the data to be reused in derivative works without restrictions (CC0), with required credit (CC-BY), or with required credit and only for non-commercial use (CC-BY-NC).   
+You can choose what license is applied to your data, metadata, and artefacts. We recommend using [Creative Commons](https://creativecommons.org/licenses/) CC0, CC-BY or CC-BY-NC licences. This allows the data to be reused in derivative works without restrictions (CC0), with required credit (CC-BY), or with required credit and only for non-commercial use (CC-BY-NC).
 
-The Australian Research Data Commons (ARDC) [Research Data Rights Management Guide](https://ardc.edu.au/resource/research-data-rights-management-guide/) has more copyright, licensing, IP, and rights management information. 
+## 5. Where is the data I upload stored?
 
-Additionally, when sharing with only specific parties or if your project needs more detailed governance, you can develop a data sharing agreement (DSA) with the parties you give access to your data. For support, please refer to [ARDC’s Data Sharing Agreement Guidelines](https://zenodo.org/records/7553198). 
+{{ data_storage_statement }}
 
+## 6. Can I download my data?
 
-## 5. Where is the data I upload stored? 
+You can download all your data from {{ brand }}. You can also control who else is allowed to download your data. 
 
-We securely store data in Australian servers to ensure compliance with local regulations. 
-
-
-## 6. Can I download my data? 
-
-You can download all your data from Ecosounds. You can also control who else is allowed to download your data. 
-
-
-## 7. Can I remove my data once it is uploaded to Ecosounds? 
+## 7. Can I remove my data once uploaded to {{ brand }}? 
 
 You can also decide to remove your data at any point. For safety, most deletion actions are “soft” (they hide but do not permanently delete data). This means most data, metadata, and artefacts, are recoverable after deletion. 
 
 We require a written request if you wish for your data to be permanently deleted. 
 
- 
 ## 8. How is my personal information handled? 
 
 We collect personal information, including first name, last name, ORCID, and email address. If you want to generate a persistent identifier for the data sets you upload, providing these details is mandatory. Your personal information won't be shared or used for other purposes. 
 
-## 9. What are the regulatory requirements for sharing data? 
+## 9. What are the regulatory requirements for sharing data?
 
-[Australian Code for the Responsible Conduct of Research](https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018) advises that researchers should share their data wherever possible and appropriate. Using our platform is an opportunity for you to share your data.  
-
-Please refer to [QUT’s Data and Information Asset Management Policy](https://mopp.qut.edu.au/document/view.php?id=180&version=1) for more information on the institutional policies we are operating under. 
+{{ regulatory_statement }}
 
 Everyone must exercise care in sharing data that is sensitive, confidential, or subject to privacy legislation. 
-
 
 ## 10. In what formats can my uploaded data be made available? 
 
@@ -130,16 +119,15 @@ The data you upload can be made available in various formats, including:
 
 - Metadata: any information that describes characteristics of the data – like names, descriptions, organization, locations, and any other information used to describe the data in CSV or JSON format. 
 
- 
-
-## 11. Is my data secure in Ecosounds? 
+## 11. Is my data secure in {{ brand }}? 
 
 We securely store data in Australian servers to ensure compliance with local regulations.  In case of data misuse, we will take appropriate actions to address the issue. This includes revoking access and notifying relevant authorities. 
 
-
 ## 12. How should I handle ecologically sensitive data? 
 
-Ecosounds is a repository where you can store your data. The data you upload must comply with relevant regulations if it contains ecologically sensitive information. In Australia, both Commonwealth and state/territory legislation exist to conserve and protect native species. Each jurisdiction maintains a list of threatened species that require special protection measures. Typically, there are separate lists for terrestrial and marine species. For more detailed information, refer to the websites of the relevant state and territory agencies. If you choose to upload data to the ALA through us, sensitivity tests are conducted as part of the process. Based on these tests, the ALA may withhold or generalise specific data. (Adapted from the ALA article, [Working with threatened, migratory and sensitive species information in the ALA](https://support.ala.org.au/support/solutions/articles/6000261705-working-with-threatened-migratory-and-sensitive-species-information-in-the-ala), 2023.) 
+{{ brand }} is a repository where you can store your data. The data you upload must comply with relevant regulations if it contains ecologically sensitive information. 
+
+{{ ecologically_sensitive_statement }}
 
 
 
