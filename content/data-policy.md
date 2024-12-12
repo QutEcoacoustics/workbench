@@ -7,7 +7,7 @@ This is the data policy for [Open Ecoacoustics](https://openecoacoustics.org/), 
 
 The purpose of this policy is to ensure that data providers and users have clear and transparent information about how their data will be handled, stored, and shared. This includes assurances that personal data will be protected and that data ownership rights will be respected. This policy outlines the types of data covered, the conditions under which data can be accessed and reused, and the responsibilities of all parties involved. This helps to establish a consistent framework for data management and sharing. 
 
-We are committed to adhering to the FAIR Principles (Findable, Accessible, Interoperable, and Reusable) to maximize the use and reuse of data. By implementing these principles, we aim to support knowledge discovery and innovation, facilitate data integration, and promote the sharing and reuse of data across multiple disciplines. 
+We are committed to adhering to the [FAIR Principles](https://ardc.edu.au/resource-hub/making-data-fair/) (Findable, Accessible, Interoperable, and Reusable) to maximize the use and reuse of data. By implementing these principles, we aim to support knowledge discovery and innovation, facilitate data integration, and promote the sharing and reuse of data across multiple disciplines. 
 
 We reserve the right to update our data sharing policy. This policy will be versioned, and all versions will be made publicly accessible. Any changes will be presented for approval to our steering committee, and those changes will be communicated to registered users. For data that requires mediated access due to sensitivity or other concerns, don't hesitate to contact us to discuss how this can be managed.  
 
