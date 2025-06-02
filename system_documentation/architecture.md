@@ -16,6 +16,12 @@ subdomains.
 The server's analysis is done by running analysis on a cluster. At current
 we only support the PBS cluster software. 
 
+It needs at least:
+
+- Singularity 1.3.6 (apptainer acceptable)
+- PBS Pro 2024.1.2
+- Curl 7.84.0
+
 
 ### The audio search engine
 
